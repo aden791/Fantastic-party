@@ -1,0 +1,129 @@
+body {
+    font-family: 'Seogoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: darkgray;
+}
+
+header{
+    background-color: red;
+    padding: 10px;
+    color:navy
+}
+
+eaade img{
+    adding-right:8px;
+}
+
+header a{
+    text-decoration:none;
+    color:blue ;
+    backround-color: rgb(223,222,220)
+    padding: 8px;
+    margin-left: 8px;
+    font-size: 12px
+}
+
+nav a{
+    text-decoration: none;
+    color:black;
+    padding:10px;
+    background-color:navy;
+    border-radius:10px;
+    border:1px dashed red;
+    margin-right:18px;
+}
+
+nav{
+    margin-top:15px;
+}
+
+main h1{
+    text-align: center;
+    color:navy;
+    border:1px solid brown;
+    border-radius: 10px;
+    background-color: bisque;
+    padding-top: 8px;
+    padding-bottom:8px;
+}
+
+main h2{
+    color: green;
+    background-color: beige;
+    padding-top:8px;
+    padding-bottom:8px;
+    border: 5px dashed  red;
+    border-radius:25px;
+    text-align:center;
+}
+
+.product{
+    color:blue;
+    background-color: cornflowerblue;
+    padding top: 10px;
+    padding-bottom: 10px;
+    paddding-left: 10px;
+    margin-bottom: 8px;
+    border: 3px dotted purple;
+    border-radius:25px;
+}
+
+.seasonal{
+    color:navy;
+    background-color:azure
+    padding: 15px;
+    margin-botto:10px
+}
+
+.seasonal i {
+    color:orange;
+}
+
+.contact{
+    text-decoration:none;
+    color:blueviolet;
+    background-color:honeydew;
+    padding: 5px 10px;
+    border-radius:15px;
+    border: 1px dotted blueviolet;
+}
+
+.buy{
+    background-color:blue;
+    color: darkcyan;
+    padding:15px;
+}
+
+.wholesale{
+    background-color: antiquewhite;
+    color: cadetblue;
+    padding: 15px;
+    border-bottom: 3px dashed black;
+}
+
+.about{
+    backround-color: antiquewhite
+    color: darkblue;
+    padding: 15px;
+}
+
+.top a {
+    background-color: brown;
+    color:white;
+    padding:8px 10px;
+    border: 1px solid orange;
+    text-decoration: none;
+    width :90px
+}
+
+footer {
+    background-color:blue;
+    padding: 15px;
+}
+
+footer p {
+    background-color: white;
+    color:brown;
+    padding-top:10px;
+    padding-left:8px;
+}
+
